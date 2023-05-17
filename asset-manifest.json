@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ev-glaz-verapp/static/css/main.5de98096.css",
-    "main.js": "/ev-glaz-verapp/static/js/main.b0b34517.js",
+    "main.js": "/ev-glaz-verapp/static/js/main.30c66c79.js",
     "index.html": "/ev-glaz-verapp/index.html",
     "main.5de98096.css.map": "/ev-glaz-verapp/static/css/main.5de98096.css.map",
-    "main.b0b34517.js.map": "/ev-glaz-verapp/static/js/main.b0b34517.js.map"
+    "main.30c66c79.js.map": "/ev-glaz-verapp/static/js/main.30c66c79.js.map"
   },
   "entrypoints": [
     "static/css/main.5de98096.css",
-    "static/js/main.b0b34517.js"
+    "static/js/main.30c66c79.js"
   ]
 }
